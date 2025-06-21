@@ -3,7 +3,7 @@
 # **GenPRD: PRD Maker with LLM**  
 
 ## **Overview**
-**GenPRD** is a web-based application designed to simplify and accelerate the creation of Product Requirements Documents (PRD). By leveraging a user-friendly input form and a powerful Large Language Model (LLM), the application generates optimized PRDs tailored to project needs. Users can edit the generated PRD for accuracy and download the finalized document as a professionally styled PDF.
+**GenPRD** is an application designed to simplify and accelerate the creation of Product Requirements Documents (PRD). By leveraging a user-friendly input form and a powerful Large Language Model (LLM), the application generates optimized PRDs tailored to project needs. Users can edit the generated PRD for accuracy and download the finalized document as a professionally styled PDF.
 
 - **User-Friendly Interface**: Input project details like version, product name, and timeline easily.  
 - **AI-Driven PRD Generation**: Generate structured PRDs using LLM-powered optimization (OpenAI API).  
